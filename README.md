@@ -22,7 +22,10 @@ npm i
 **Start Preview**
 
 ```console
-npm run dev
+node prepare.js 202269
+
+
+npx remotion render AnimeVideo out/mushoku-tensei-reel.mp4
 ```
 
 **Render video**
